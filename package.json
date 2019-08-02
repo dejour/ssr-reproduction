@@ -1,0 +1,22 @@
+{
+  "name": "koa-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.7.0",
+    "koa-webpack": "^5.2.4",
+    "webpack": "^4.39.1"
+  },
+  "dependencies": {
+    "memory-fs": "^0.4.1",
+    "vue-server-renderer": "^2.6.10",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
